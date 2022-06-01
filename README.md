@@ -6,3 +6,6 @@ SQL/JDBC
 
 ### Short descriptiion
 Key mechanisms to work with PostgreSQL DBMS via JDBC
+
+### Grade
+80/100
